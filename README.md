@@ -1,6 +1,6 @@
 # test_google_ad
 
-A new Flutter project.
+This is a demo of the black status bar bug of admob flutter plug-in version 5.0.0.
 
 ## Getting Started
 
